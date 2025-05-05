@@ -1,16 +1,28 @@
-## Hi there 👋
+# My GitHub README profil
 
-<!--
-**Zegthor91/Zegthor91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello everyone, I'm Idir
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learner coding in full stack and french student looking to specialize in digital and IT. I'm currently interested in website & application development.
+
+My goals :
+
+- Improve hard skills about __coding languages__ : Python, java, C, JavaScript. And __HTML & CSS__ script.
+- Make to design websites that are efficient, fluid and accessible to all (people no / bad visually including)
+- Create to websites and applications with a __responsive design__ can been include
+
+
+## My projects :
+
+Refont website for ASrock :
+
+> https://github.com/Csolatus/challenge_web
+
+Creating of application in _Java_ for Bella Travola restaurant :
+
+> https://github.com/Zegthor91/RestaurantProject
+
+## GitHub stats :
+
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=[Zegthor91]&show_icons=true&theme=radical)
