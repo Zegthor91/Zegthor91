@@ -1,28 +1,43 @@
-# My GitHub README profil
+# 👋 Hello everyone, I'm Idir
 
-## Hello everyone, I'm Idir
+---
 
-## About me
+## 💻 About Me
+I'm a French student passionate about full-stack development, currently studying to specialize in digital technologies and IT. I'm especially interested in creating modern websites and applications.
 
-Learner coding in full stack and french student looking to specialize in digital and IT. I'm currently interested in website & application development.
+## 🎯 My Goals
+- Strengthen my skills in programming languages such as _Python_, _Java_, _C_, and _JavaScript_, as well as in __HTML and CSS__.
 
-My goals :
+- Design websites that are efficient, user-friendly, and accessible to everyone — including people with visual impairments.
 
-- Improve hard skills about __coding languages__ : Python, java, C, JavaScript. And __HTML & CSS__ script.
-- Make to design websites that are efficient, fluid and accessible to all (people no / bad visually including)
-- Create to websites and applications with a __responsive design__ can been include
+- Build __responsive__ websites and applications that adapt seam lessly across all devices.
 
+## 🚀 My Projects
 
-## My projects :
+---
 
-Refont website for ASrock :
-
+🔧 Website Redesign for ASRock
 > https://github.com/Csolatus/challenge_web
 
-Creating of application in _Java_ for Bella Travola restaurant :
+Redesigned a website for the ASRock brand as part of a team challenge.
 
+---
+
+🍽️ Restaurant Management App in Java
 > https://github.com/Zegthor91/RestaurantProject
 
-## GitHub stats :
+Developed a Java application for the Bella Travola restaurant to help manage orders, menus, and more.
+
+---
+
+## 📊 GitHub stats :
 
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zegthor91&show_icons=true&theme=radical)
+
+## 📫 Contact
+
+📧 Email: idir.zegtitouche@efrei.net
+
+💼 LinkedIn: https://www.linkedin.com/in/idir-zegtitouche-369118333/
+
+🐙 GitHub: https://github.com/Zegthor91
