@@ -16,17 +16,19 @@ I'm a French student passionate about full-stack development, currently studying
 
 ---
 
-🔧 Website Redesign for ASRock
-> https://github.com/Csolatus/challenge_web
+## 🔧 Website Redesign for ASRock
 
 Redesigned a website for the ASRock brand as part of a team challenge.
 
+> https://github.com/Csolatus/challenge_web
+
 ---
 
-🍽️ Restaurant Management App in Java
-> https://github.com/Zegthor91/RestaurantProject
+## 🍽️ Restaurant Management App in Java
 
 Developed a Java application for the Bella Travola restaurant to help manage orders, menus, and more.
+
+> https://github.com/Zegthor91/RestaurantProject
 
 ---
 
