@@ -6,7 +6,7 @@
 I'm a French student passionate about full-stack development, currently studying to specialize in digital technologies and IT. I'm especially interested in creating modern websites and applications.
 
 ### My Goals
-- Strengthen my skills in programming languages such as _Python_, _Java_, _C_, and _JavaScript_, as well as in __HTML and CSS__.
+- Strengthen my skills in programming languages such as _Python_, _PHP_, _C_, and _JavaScript_, as well as in __HTML and CSS__.
 
 - Design websites that are efficient, user-friendly, and accessible to everyone — including people with visual impairments.
 
