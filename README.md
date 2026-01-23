@@ -1,4 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/24817820/README.3.md)
 <div align="center">
   <img src="./zegthor-animated.svg" alt="ZEGTHOR - Welcome Banner" width="800"/>
 </div>
