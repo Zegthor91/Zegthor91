@@ -64,10 +64,17 @@ Building of an event management system for any company.
 
 ## Contact
 
-<a href="mailto:idir.zegtitouche@efrei.net" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="32" height="32" />
-</a> &nbsp; <span>idir.zegtitouche@efrei.net</span> <br/><br/>
-
-<a href="https://www.linkedin.com/in/idir-zegtitouche-369118333/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32" height="32" />
-</a> &nbsp; <span><a href="https://www.linkedin.com/in/idir-zegtitouche-369118333/">idir-zegtitouche-369118333/</a></span> <br/>>
+<p>
+  <a href="mailto:idir.zegtitouche@efrei.net" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="32" height="32" style="vertical-align: middle;" />
+  </a>
+  &nbsp;
+  <span style="vertical-align: middle;">idir.zegtitouche@efrei.net</span>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/idir-zegtitouche-369118333/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="32" height="32" style="vertical-align: middle;" />
+  </a>
+  &nbsp;
+  <span style="vertical-align: middle;"><a href="https://www.linkedin.com/in/idir-zegtitouche-369118333/">idir-zegtitouche-369118333/</a></span>
+</p>
