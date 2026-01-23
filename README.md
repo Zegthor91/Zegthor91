@@ -19,13 +19,13 @@ I'm a French student passionate about full-stack development, currently studying
 
 ---
 
-# Website Redesign for ASRock
+### Website Redesign for ASRock
 
 Redesigned a website for the ASRock brand as part of a team challenge.
 
 > https://github.com/Csolatus/challenge_web
 
-# Website Event Management
+### Website Event Management
 
 Building of an event management system for any company.
 
