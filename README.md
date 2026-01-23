@@ -64,6 +64,9 @@ Building of an event management system for any company.
 
 ## Contact
 
-<a href="mailto:idir.zegtitouche@efrei.net" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="24" height="24" /> </a> &nbsp; <span>idir.zegtitouche@efrei.net</span> <br/>
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-idir.zegtitouche@efrei.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idir.zegtitouche@efrei.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Idir_Zegtitouche-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idir-zegtitouche-369118333/)
 
-<a href="https://www.linkedin.com/in/idir-zegtitouche-369118333/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" height="24" /> </a> &nbsp; <span><a href="https://www.linkedin.com/in/idir-zegtitouche-369118333/">idir-zegtitouche-369118333/</a></span> <br/>
+</div>
