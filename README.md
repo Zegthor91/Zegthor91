@@ -5,7 +5,7 @@
 
 ---
 
-### Hi There !
+# Hi There !
 
 ## About Me
 I'm a French student passionate about full-stack development, currently studying to specialize in digital technologies and IT. I'm especially interested in creating modern websites and applications.
