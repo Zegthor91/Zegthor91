@@ -15,7 +15,7 @@ I'm a French student passionate about full-stack development, currently studying
 
 - Build __responsive__ websites and applications that adapt seamlessly across all devices.
 
-## My Projects
+## My Projects (in team)
 
 ---
 
@@ -24,6 +24,10 @@ I'm a French student passionate about full-stack development, currently studying
 Redesigned a website for the ASRock brand as part of a team challenge.
 
 > https://github.com/Csolatus/challenge_web
+
+Building of an event management system for any company.
+
+> https://github.com/Zegthor91/challengeWeb_eventManagement
 
 ---
 
