@@ -69,7 +69,7 @@ Building of an event management system for any company.
 
 <p align="left">
   <a href="mailto:idir.zegtitouche@efrei.net">
-    <span style="color:#00ff00; font-size:22px; align=center">@</span>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335/fff" width="22px" align="center" />
     <span>&nbsp;&nbsp;idir.zegtitouche@efrei.net</span>
   </a>
 </p>
