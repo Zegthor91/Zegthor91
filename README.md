@@ -59,14 +59,9 @@ Building of an event management system for any company.
 ---
 
 
-## 📊 GitHub Stats :
+## 📊 GitHub Stats & 🔥 GitHub Streak :
 
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zegthor91&show_icons=true&theme=radical)
-
-
-## 🔥 GitHub Streak :
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Zegthor91&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zegthor91&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=Zegthor91&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
