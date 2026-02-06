@@ -58,10 +58,24 @@ Building of an event management system for any company.
 
 ---
 
+## My Personal Projects
+
+These is a 2D prototype game that borrows concepts from arcade game: *Galaga*. That's inspired by a mini game from *Last War* (a well known mobile game), as seen in trending ads.
+
+> https://github.com/Zegthor91/LASTWARE_videogame_prototypeproject_2D
+
+<br><br>
+
+![Game Preview](illustration_lastwar.png)
+
+---
+
 
 ## 📊 GitHub Stats & 🔥 GitHub Streak :
 
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zegthor91&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=Zegthor91&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zegthor91&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Zegthor91&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
