@@ -4,11 +4,15 @@
 
 ---
 
+<br>
+
 # Hi There !
 
 I'm a French student passionate about full-stack development, currently studying to specialize in digital technologies and IT. I'm especially interested in creating modern websites and applications.
 
 ### My Skills & Goals
+
+<br>
 
 **Current Hard Skills:**
 - **Programming Languages:** Python, PHP, C, JavaScript
@@ -28,6 +32,7 @@ I'm a French student passionate about full-stack development, currently studying
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<br>
 
 **Goals I'm Working Towards:**
 - Master advanced concepts in _Python_, _PHP_, and _JavaScript_
@@ -44,15 +49,23 @@ I'm a French student passionate about full-stack development, currently studying
 
 ## My Projects (in team)
 
+<br>
+
 ### Website Redesign for ASRock
 
 Redesigned a website for the ASRock brand as part of a team challenge.
 
+<br>
+
 > https://github.com/Csolatus/challenge_web
+
+<br><br>
 
 ### Website Event Management
 
 Building of an event management system for any company.
+
+<br>
 
 > https://github.com/Zegthor91/challengeWeb_eventManagement
 
@@ -60,11 +73,15 @@ Building of an event management system for any company.
 
 ## My Personal Projects
 
+<br>
+
 These is a 2D prototype game that borrows concepts from arcade game: *Galaga*. That's inspired by a mini game from *Last War* (a well known mobile game), as seen in trending ads.
+
+<br>
 
 > https://github.com/Zegthor91/LASTWARE_videogame_prototypeproject_2D
 
-<br><br>
+<br>
 
 ![Game Preview](illustration_lastwar.png)
 
@@ -73,7 +90,11 @@ These is a 2D prototype game that borrows concepts from arcade game: *Galaga*. T
 
 ## 📊 GitHub Stats & 🔥 GitHub Streak :
 
+<br>
+
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zegthor91&show_icons=true&theme=radical)
+
+<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Zegthor91&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
@@ -81,11 +102,17 @@ These is a 2D prototype game that borrows concepts from arcade game: *Galaga*. T
 
 ## Contact
 
+<br>
+
 <p align="left">
   <a href="mailto:idir.zegtitouche@efrei.net">
     <img src="https://cdn.simpleicons.org/gmail/EA4335/fff" width="22px" align="center" />
     <span>&nbsp;&nbsp;idir.zegtitouche@efrei.net</span>
   </a>
+
+<br>
+<br>
+
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/idir-zegtitouche-369118333/">
