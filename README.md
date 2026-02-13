@@ -1,3 +1,5 @@
+---
+
 <div align="center">
   <img src="./zegthor-animated.svg" alt="ZEGTHOR - Welcome Banner" width="800"/>
 </div>
