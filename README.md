@@ -92,7 +92,7 @@ These is a 2D prototype game that borrows concepts from arcade game: *Galaga*. T
 
 <br>
 
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zegthor91&show_icons=true&theme=radical)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zegthor91)
 
 ---
 
