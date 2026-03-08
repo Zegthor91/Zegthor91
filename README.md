@@ -69,7 +69,7 @@ Building of an event management system for any company.
 
 <br>
 
-> https://github.com/Zegthor91/challengeWeb_eventManagement
+> https://github.com/Zegthor67/challengeWeb_eventManagement
 
 ---
 
@@ -81,7 +81,7 @@ These is a 2D prototype game that borrows concepts from arcade game: *Galaga*. T
 
 <br>
 
-> https://github.com/Zegthor91/LASTWARE_videogame_prototypeproject_2D
+> https://github.com/Zegthor67/LASTWARE_videogame_prototypeproject_2D
 
 <br>
 
